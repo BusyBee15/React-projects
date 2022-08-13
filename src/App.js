@@ -1,9 +1,8 @@
+import Main from "./projects/Birthday-reminder/Main";
 
 function App() {
   return (
-   <>
-   <h1>React Projects</h1>
-   </>
+   <Main/>
   );
 }
 
