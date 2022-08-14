@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+import './projects/Birthday-reminder/index.css';
 import App from './App';
 
 
