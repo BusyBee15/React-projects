@@ -1,4 +1,4 @@
-import Main from "./projects/reviews";
+import Main from "./projects/accordion";
 
 function App() {
   return (
