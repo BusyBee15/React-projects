@@ -1,4 +1,4 @@
-import Main from "./projects/tours";
+import Main from "./projects/reviews";
 
 function App() {
   return (
