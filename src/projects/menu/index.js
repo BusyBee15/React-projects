@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import items from './data'
 import Menu from './Menu'
 import Categories from './Categories'
+import './menu.css'
 
 const allcategories = ["all", ...new Set(items.map((item)=>item.category))]
 
