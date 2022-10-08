@@ -1,4 +1,4 @@
-import Main from "./projects/Birthday-reminder/Main";
+import Main from "./projects/tours";
 
 function App() {
   return (
