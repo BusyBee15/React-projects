@@ -1,4 +1,4 @@
-import Main from "./projects/accordion";
+import Main from "./projects/color generator";
 
 function App() {
   return (

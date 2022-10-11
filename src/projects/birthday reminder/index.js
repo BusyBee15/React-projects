@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import List from './List'
 import data from './data'
+import "./birthday reminder.css"
 
 const Main = () => {
   const [value, setValue] = useState(data)
